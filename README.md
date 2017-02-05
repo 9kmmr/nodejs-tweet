@@ -1,5 +1,7 @@
 # [nodejs-tweet](https://twitter.com/nodejstweets)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amandeepmittal/nodejs-tweet.svg)](https://greenkeeper.io/)
+
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 Twitter bot that retweets, favorites, and replies related to Node.js, AngularJS, MongoDB, MEAN Stack, and Ionic Framework.
